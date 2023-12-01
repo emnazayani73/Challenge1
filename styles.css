@@ -5,10 +5,6 @@ body, h1, h2, h3, p, ul {
 }
 
 
-body {
-    /*margin-top: 64px; /* Hauteur du header */
-}
-
 
 .container {
     max-width: 1200px;
@@ -24,11 +20,6 @@ body {
     padding: 10px 0; /* Espacement intérieur du header */
 }
 
-
-.logo {
-
- /* Le logo ne doit pas être redimensionné */
-}
 
 .logo img {
     max-height: 100%;
@@ -182,13 +173,7 @@ color: #FFFFFF;
     
 }
 
-/*.one-statistic{
 
-   display: flex;
-    flex-direction: column;
-    justify-content: center;
-    
-}*/
 
 .one-statistic img{
   margin-left: 3vw;
